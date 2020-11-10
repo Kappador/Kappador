@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://kappa.host/">
-    <img src="https://cdn.discordapp.com/avatars/568256682921164812/a_d806945724495dc13fea158b0286c585.gif" alt="Avatar" style="border-radius: 75%;">
-  </a>
-</p>
 
 <h3 align="center">Kappador</h3>
 
