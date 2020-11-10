@@ -17,7 +17,7 @@
 
 ## Contact info
 
-- [Discord](https://discord.gg/SUtTUXC)
+- [Discord](https://discord.gg/Rdex6zR)
 - [Twitter](https://twitter.com/kappadoryes)
 - [Website](https://kappa.host/support)
 - [Email](mailto:kappador@kappa.host)
