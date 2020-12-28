@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <a href="https://kappa.host/kappador/projects/"><strong>Look at my projects</strong></a>
+  <a href="https://kappa.host/kappador/projects"><strong>Look at my projects</strong></a>
   <br>
   <br>
   <br>
@@ -11,9 +11,9 @@
   <br>
   <a href="https://kappa.host/">Kappa.host</a>
   ·
-  <a href="https://kappa.host/projects/#kappamail">Kappamail</a>
+  <a href="https://kappa.host/projects#kappamail">Kappamail</a>
   ·
-  <a href="https://kappa.host/projects/#monkeybot">Monkeybot</a>
+  <a href="https://kappa.host/projects#monkeybot">Monkeybot</a>
 
 ## Contact info
 
