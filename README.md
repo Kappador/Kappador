@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <a href="https://kappa.host/kappador/projects"><strong>Look at my projects</strong></a>
+  <a href="https://kappa.host/projects"><strong>Look at my projects</strong></a>
   <br>
   <br>
   <br>
