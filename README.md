@@ -3,6 +3,7 @@
 
 <p align="center">
   <br>
+  <img src="https://kappa.host/assets/images/kappador.gif" type="image/gif">
   <a href="https://kappa.host/projects"><strong>Look at my projects</strong></a>
   <br>
   <br>
