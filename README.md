@@ -4,7 +4,7 @@
 <p align="center">
   <br>
   <a target="_blank" rel="noopener noreferrer" href="https://kappa.host/">
-    <img src="https://github.com/Kappador/Kappador/blob/master/kappador.gif" style="max-width: 25%;max-height: 25%">
+    <img src="https://github.com/Kappador/Kappador/blob/master/kappador.gif" style="width: 25%;height: 25%">
   </a>
   <br>
   <a href="https://kappa.host/projects"><strong>Look at my projects</strong></a>
