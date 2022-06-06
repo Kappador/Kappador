@@ -19,6 +19,6 @@
 
 - [Discord](https://discord.gg/YpWhp59pvR)
 - [Twitter](https://twitter.com/kappadoryes)
-- [Website](https://kappa.host/)
+- [Website](https://kappa.host/kappa)
 - [Email](mailto:kappador@kappa.host)
 </p>
