@@ -1,5 +1,6 @@
 
 <h3 align="center">Kappador</h3>
+![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
 <p align="center" target="_blank" rel="noopener noreferrer" href="https://kappa.host/">
   <br>
   <a href="https://github.com/Kappador?tab=repositories"><strong>Look at my projects</strong></a>
@@ -20,5 +21,4 @@
 - [Twitter](https://twitter.com/kappadoryes)
 - [Website](https://kappa.host/)
 - [Email](mailto:kappador@kappa.host)
-![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
 </p>
