@@ -20,5 +20,5 @@
 - [Twitter](https://twitter.com/kappadoryes)
 - [Website](https://kappa.host/)
 - [Email](mailto:kappador@kappa.host)
-- [X](https://komarev.com/ghpvc/?username=Kappador)
+![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
 </p>
