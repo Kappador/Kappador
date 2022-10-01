@@ -1,6 +1,6 @@
 
 <h3 align="center">Kappador</h3>
-[Profile Views](https://komarev.com/ghpvc/?username=Kappador)
+[Profile VIews](https://komarev.com/ghpvc/?username=Kappador)
 <p align="center" target="_blank" rel="noopener noreferrer" href="https://kappa.host/">
   <br>
   <a href="https://github.com/Kappador?tab=repositories"><strong>Look at my projects</strong></a>
