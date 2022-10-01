@@ -18,6 +18,9 @@
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
   
+## Discord Activity
+[![Discord Activity](https://lanyard-profile-readme.vercel.app/api/559040015884222484)](https://discord.com/users/559040015884222484)
+  
 ## Contact info
 
 - [Discord](https://discord.gg/kappa)
