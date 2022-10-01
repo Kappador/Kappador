@@ -1,6 +1,6 @@
 
 <h3 align="center">Kappador</h3>
-![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
+
 <p align="center" target="_blank" rel="noopener noreferrer" href="https://kappa.host/">
   <br>
   <a href="https://github.com/Kappador?tab=repositories"><strong>Look at my projects</strong></a>
@@ -15,6 +15,9 @@
   ·
   <a href="https://github.com/Kappador/satana">Satana</a>
 
+## Profile Views
+![](https://komarev.com/ghpvc/?username=Kappador&style=for-the-badge)
+  
 ## Contact info
 
 - [Discord](https://discord.gg/kappa)
