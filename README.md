@@ -24,10 +24,7 @@
   
 ## Discord Activity
 [![Discord Activity](https://lanyard-profile-readme.vercel.app/api/559040015884222484)](https://discord.com/users/559040015884222484)
-  
-## Twitch Activity
-[![Twitch Activity](https://api.kappa.host/twitch/kappadoriusthefirst/embed)
-  
+
 ## Contact info
 
 - [Discord](https://discord.gg/kappa)
