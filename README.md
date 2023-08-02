@@ -11,7 +11,7 @@
   <br>
   <a href="https://kappa.host/">Kappa.host</a>
   ·
-  <a href="https://github.com/Kappador/integrity">Integrity</a>
+  <a href="https://twitch.kappa.host/">Twitch</a>
   ·
   <a href="https://github.com/Kappador/satana">Satana</a>
 
