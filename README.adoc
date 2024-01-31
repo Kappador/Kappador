@@ -1,0 +1,35 @@
+
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+= Kappador
+
+=== Stats
+image::https://komarev.com/ghpvc/?username=Kappador&&color=blue&style=flat[]
+image::https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=orange&style=flat&style=for-the-badge&query=%24.forks&url=https://api.kappa.host/github/Kappador/stats[]
+image::https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=yellow&style=flat&style=for-the-badge&query=%24.stars&url=https://api.kappa.host/github/Kappador/stats[]
+
+=== Projects
+[cols="1,1,2"] 
+|===
+|Name |Link |Description
+
+|Twitch Tools
+|https://github.com/Kappador/twitch-tools[Repo,role=external,window=_blank]
+|Chrome extension that boosts your twitch experience to the heavens
+
+|Salamoonder Wrapper
+|https://github.com/Kappador/salamoonder-api[Repo,role=external,window=_blank]
+|Provides an easy to use API Wrapper for https://salamoonder.com
+|===
+
+=== Contact Info
+* https://discord.gg/kappa[Discord,role=external,window=_blank]
+* https://kappa.host/[Website,role=external,window=_blank]
+* mailto:kappador@kappa.host[Email,role=external,window=_blank]
