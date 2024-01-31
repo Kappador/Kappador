@@ -33,3 +33,5 @@ image::https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=yell
 * https://discord.gg/kappa[Discord,role=external,window=_blank]
 * https://kappa.host/[Website,role=external,window=_blank]
 * mailto:kappador@kappa.host[Email,role=external,window=_blank]
+
+This  image:./kappador.gif[width=24, height=24, link=https://kappa.host]  is a cool gif right?
