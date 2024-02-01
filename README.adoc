@@ -24,6 +24,10 @@ image::https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=yell
 |https://github.com/Kappador/twitch-tools[Repo,role=external,window=_blank]
 |Chrome extension that boosts your twitch experience to the heavens
 
+|Twitch Cloud Tool
+|https://github.com/Kappador/twitch-cloud-tool[Repo,role=external,window=_blank]
+|The most comprehensive twitch aio out there
+
 |Salamoonder Wrapper
 |https://github.com/Kappador/salamoonder-api[Repo,role=external,window=_blank]
 |Provides an easy to use API Wrapper for https://salamoonder.com
