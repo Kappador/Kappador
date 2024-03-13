@@ -29,8 +29,12 @@ image::https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=yell
 |The most comprehensive twitch aio out there
 
 |Salamoonder Wrapper
-|https://github.com/Kappador/salamoonder-api[Repo,role=external,window=_blank]
+|https://github.com/Kappador/salamoonder[Repo,role=external,window=_blank]
 |Provides an easy to use API Wrapper for https://salamoonder.com
+
+|Tasketeer
+|https://github.com/Kappador/tasketeer[Repo,role=external,window=_blank]
+|Comprises a REST API integrated with a swift task engine and a lightning-fast templating engine
 |===
 
 === Contact Info
